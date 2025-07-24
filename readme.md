@@ -121,8 +121,6 @@ Paste this into `/docs` to test:
   "mobile_wt": 180,
   "n_cores": 4,
   "pc": 10,
-  "px_height": 800,
-  "px_width": 1280,
   "ram": 4096,
   "screen_area": 28,
   "talk_time": 10,
@@ -130,6 +128,7 @@ Paste this into `/docs` to test:
   "touch_screen": 1,
   "wifi": 1
 }
+
 ```
 
 ---
