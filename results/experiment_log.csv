@@ -1,0 +1,41 @@
+model,loss_function,training_method,hyperparameters,r2,adj_r2,mae,mse,rmse,accuracy,f1,notes
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1
+TestModel,MSE,manual-test,alpha=0.01,0.9,0.89,0.23,0.15,0.39,,,First test log
+Ridge,MSE,GridSearchCV,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,GridSearch tuned Ridge
+Ridge,MSE,sklearn-Ridge,alpha=1.0,0.9165,0.9123,0.2735,0.1114,0.3337,,,First Ridge run with basic alpha
+Lasso,MSE,GridSearchCV,alpha=0.01,0.9161,0.912,0.2752,0.1119,0.3345,,,GridSearch tuned Lasso
+Lasso,MSE,sklearn-Lasso,alpha=0.1,0.8895,0.884,0.3051,0.1475,0.384,,,Lasso run with alpha=0.1

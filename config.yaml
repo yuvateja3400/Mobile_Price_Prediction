@@ -1,0 +1,2 @@
+dataset: data/mobile_data_new.csv
+target_column: price_range
